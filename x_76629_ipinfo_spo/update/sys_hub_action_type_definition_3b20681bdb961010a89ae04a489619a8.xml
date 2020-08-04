@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get geographic data from a public IP address</description>
+        <ih_action>false</ih_action>
+        <internal_name>get_geographic_data_from_ip</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Geographic Data from IP</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin6</sys_created_by>
+        <sys_created_on>2020-08-03 08:11:44</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>3b20681bdb961010a89ae04a489619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Geographic Data from IP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IpInfo Spoke" source="x_76629_ipinfo_spo">a5cd18d3db961010a89ae04a4896198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IpInfo Spoke">a5cd18d3db961010a89ae04a4896198d</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_3b20681bdb961010a89ae04a489619a8</sys_update_name>
+        <sys_updated_by>admin6</sys_updated_by>
+        <sys_updated_on>2020-08-03 08:11:44</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=3b20681bdb961010a89ae04a489619a8"/>
+    <sys_variable_value action="delete_multiple" query="document_key=3b20681bdb961010a89ae04a489619a8"/>
+</record_update>
